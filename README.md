@@ -38,8 +38,7 @@ This project analyzes the financial performance of the top 500 companies in Indi
 
 - **Financial Analytics data.csv**: The original dataset.
 - **Python scripts**: Used for analysis and visualizations.
-- **Visualizations**: Saved as `.png` files in the `sol1` folder.
-- **Key_Metrics.csv**: A CSV file summarizing key metrics.
+
 
 ## How to Run
 
