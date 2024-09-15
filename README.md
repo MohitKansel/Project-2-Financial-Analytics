@@ -1,5 +1,4 @@
-# Project-2-Financial-Analytics
-# Project 2: Financial Analytics
+
 
 ## Overview
 
